@@ -1,6 +1,0 @@
-This file is create in github after new branch is created.
-
-Add some comment via local.
-
-
-BBBBBBBBBBBBBBBBBBBB
