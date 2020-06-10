@@ -28,7 +28,7 @@
 							"var testjson = JSON.parse(pm.environment.get(\"UserInfo\"))\r",
 							"console.log(\"the user name is: \"+testjson.name +\" and his age is: \"+testjson.age+ \" with sex is: \"+testjson.sex)\r",
 							"tests[\"response code is 200\"]=responseCode.code==200;\r",
-							"tests[\"response time less than 300\"]=responseTime<150;\r",
+							"tests[\"response time less than 150\"]=responseTime<150;\r",
 							""
 						],
 						"type": "text/javascript"
